@@ -47,7 +47,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+theme: jekyll-theme-architect
 Tracking id: UA-144437596-1
 
 plugins:
