@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Time is Precious"
+date:   2020-02-14 21:03:36 +0530
+categories: Productivity
+---
 
 Everyone has 24 hours or 1440 minutes or 84000 seconds a day
 it depends on the individual how he invests/spends it
