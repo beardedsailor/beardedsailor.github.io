@@ -7,7 +7,7 @@ categories: Productivity
 
 # Time is Precious<br> 
 * Everyone has 24 hours or 1440 minutes or 84000 seconds a day
-it depends on the individual how he invests/spends it
+It depends on the individual how he invests/spends it
 Both investing and spending has different meanings investing means you are using your time to make your future look bright. on the other hand, spending means we are using our precious time on something that helps
 us only to make through our day.<br>
 Everyone on this planet wants to be successful
